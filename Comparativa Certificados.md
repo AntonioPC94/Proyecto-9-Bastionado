@@ -4,23 +4,23 @@ En esta parte del proyecto, después de haber implementado el certificado que he
 
 # **Imagen 1 (Certificado propio):**
 
-![Certificado1.PNG](Comparativa%20Certificados%20785a491b90634d37a10f217be73ef343/Certificado1.png)
+![Certificado1.PNG](img/Certificado1.png)
 
 # Imagen 2 (Certificado propio):
 
-![Certificado2.PNG](Comparativa%20Certificados%20785a491b90634d37a10f217be73ef343/Certificado2.png)
+![Certificado2.PNG](img/Certificado2.png)
 
 # Imagen 1 (Certificado Google):
 
-![CertificadoGoogle1.PNG](Comparativa%20Certificados%20785a491b90634d37a10f217be73ef343/CertificadoGoogle1.png)
+![CertificadoGoogle1.PNG](img/CertificadoGoogle1.png)
 
 # Imagen 2 (Certificado Google):
 
-![CertificadoGoogle2.PNG](Comparativa%20Certificados%20785a491b90634d37a10f217be73ef343/CertificadoGoogle2.png)
+![CertificadoGoogle2.PNG](img/CertificadoGoogle2.png)
 
 # Imagen 3 (Certificado Google):
 
-![CertificadoGoogle3.PNG](Comparativa%20Certificados%20785a491b90634d37a10f217be73ef343/CertificadoGoogle3.png)
+![CertificadoGoogle3.PNG](img/CertificadoGoogle3.png)
 
 ## Diferencias entre certificados (Campos comunes)
 
