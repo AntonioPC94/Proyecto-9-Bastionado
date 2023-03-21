@@ -6,17 +6,17 @@ En esta parte del proyecto, analizaré brevemente el certificado de la página w
 
 ## Imagen 1 Certificado Google
 
-![Untitled](Ana%CC%81lisis%20de%20Certificados%20Verificados%20y%20Erro%CC%81neos%20a9465a1f7c6a4f9296292e981da66a72/Untitled.png)
+![Untitled](img/Untitled.png)
 
 ## Imagen 2 Certificado Google
 
-![Untitled](Ana%CC%81lisis%20de%20Certificados%20Verificados%20y%20Erro%CC%81neos%20a9465a1f7c6a4f9296292e981da66a72/Untitled%201.png)
+![Untitled](img/Untitled%201.png)
 
 ## Imagen 3 Certificado Google
 
-![Untitled](Ana%CC%81lisis%20de%20Certificados%20Verificados%20y%20Erro%CC%81neos%20a9465a1f7c6a4f9296292e981da66a72/Untitled%202.png)
+![Untitled](img/Untitled%202.png)
 
-![Untitled](Ana%CC%81lisis%20de%20Certificados%20Verificados%20y%20Erro%CC%81neos%20a9465a1f7c6a4f9296292e981da66a72/Untitled%203.png)
+![Untitled](img/Untitled%203.png)
 
 Como podemos observar en la primera imagen, el certificado de Google cuenta con un certificado de transparencia, lo cual quiere decir que el certificado SSL no contiene fallas estructurales.
 
@@ -30,15 +30,15 @@ Ahora vamos a analizar de manera muy breve 3 certificados erróneos. Para ello, 
 
 ## Imagen 1 Certificado no válido
 
-![Untitled](Ana%CC%81lisis%20de%20Certificados%20Verificados%20y%20Erro%CC%81neos%20a9465a1f7c6a4f9296292e981da66a72/Untitled%204.png)
+![Untitled](img/Untitled%204.png)
 
 ## Imagen 2 Certificado no válido
 
-![Untitled](Ana%CC%81lisis%20de%20Certificados%20Verificados%20y%20Erro%CC%81neos%20a9465a1f7c6a4f9296292e981da66a72/Untitled%205.png)
+![Untitled](img/Untitled%205.png)
 
 ## Imagen 3 Certificado no válido
 
-![Untitled](Ana%CC%81lisis%20de%20Certificados%20Verificados%20y%20Erro%CC%81neos%20a9465a1f7c6a4f9296292e981da66a72/Untitled%206.png)
+![Untitled](img/Untitled%206.png)
 
 El error de la primera imagen, indica que el certificado no es válido porque este ha caducado. Los certificados tienen una fecha de vencimiento para garantizar que la información que se transmite a través de una conexión segura sigue siendo confiable y segura. Si el certificado ha expirado, significa que ha pasado su fecha de vencimiento y que ya no se puede garantizar la autenticidad y la integridad de la conexión.
 
